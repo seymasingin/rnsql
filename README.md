@@ -1,1 +1,1 @@
-**An SQLite exercise for React Native**
+**A SQLite exercise for React Native**
